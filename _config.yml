@@ -1,0 +1,14 @@
+layout_spectrum: 0.5867836
+color:
+  saturation: 0.62557
+  brandStrength: 0.672043
+  lightness: 0.3181699
+  rhythmicContrast: 0.3623956
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+typography_spectrum: 0.3607452
+name: iOS
