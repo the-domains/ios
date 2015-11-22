@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.3607452
 color:
   saturation: 0.62557
-  brandStrength: 0.672043
   lightness: 0.3181699
+  brandStrength: 0.672043
   brandColors:
-    - '#1F1616'
-    - '#B46504'
-    - '#884216'
-    - '#A3A2A4'
-    - '#FCFCFA'
+    - '#1F150F'
+    - '#393A38'
+    - '#AB3039'
+    - '#CF4B53'
+    - '#FFD0C5'
   rhythmicContrast: 0.3623956
+typography_spectrum: 0.3607452
 layout_spectrum: 0.5867836
 name: iOS
