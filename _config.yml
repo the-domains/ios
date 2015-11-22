@@ -1,14 +1,26 @@
-layout_spectrum: 0.5867836
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.3607452
 color:
   saturation: 0.62557
   brandStrength: 0.672043
   lightness: 0.3181699
-  rhythmicContrast: 0.3623956
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-typography_spectrum: 0.3607452
+    - '#1F1616'
+    - '#B46504'
+    - '#884216'
+    - '#A3A2A4'
+    - '#FCFCFA'
+  rhythmicContrast: 0.3623956
+layout_spectrum: 0.5867836
 name: iOS
