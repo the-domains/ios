@@ -1,7 +1,7 @@
 name: iOS
 favicon: null
-layout_spectrum: 0.5867836
-typography_spectrum: 0.3607452
+layout_spectrum: 0.20594
+typography_spectrum: 0.37991
 collections:
   - index:
       path: /
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#1F150F'
-    - '#393A38'
-    - '#AB3039'
-    - '#CF4B53'
-    - '#FFD0C5'
+    - '#ffffff'
+    - '#444444'
+    - '#33b6e6'
+    - '#b0c939'
+    - '#87daf6'
   brandStrength: 0.672043
-  lightness: 0.3181699
-  saturation: 0.62557
-  rhythmicContrast: 0.3623956
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []
