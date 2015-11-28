@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[iOS]]></title>
         <description><![CDATA[iOS]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ios/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 Nov 2015 01:06:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 28 Nov 2015 02:23:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ios/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Login and Profile Management]]></title>
             <description><![CDATA[<article><h1>Login and Profile Management</h1><p>The new User Profile features are designed to improve the experience of managing Providers (eg. Facebook, Twitter) you may attach to your activated Grid account.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4495c88-0926-4ce2-a4ff-2138468a75a3.png"></article>]]></description>
-            <link>undefinedlogin-and-profile-management/index.html</link>
+            <link>https://thegrid.ai/ios/login-and-profile-management/index.html</link>
             <guid isPermaLink="false">45298f1e-d98a-49a1-8971-a5ed8f56aed4</guid>
-            <pubDate>Sun, 22 Nov 2015 01:05:27 GMT</pubDate>
+            <pubDate>Sat, 28 Nov 2015 02:22:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
