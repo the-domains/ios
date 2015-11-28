@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-22T01:05:27.938Z'
-dateModified: '2015-11-22T00:02:38.452Z'
+datePublished: '2015-11-28T02:22:35.776Z'
+dateModified: '2015-11-28T02:09:06.222Z'
 title: Login and Profile Management
 author: []
+sourcePath: _posts/2015-11-22-login-and-profile-management.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-22-login-and-profile-management.md
-published: true
 url: login-and-profile-management/index.html
 _type: Article
 
@@ -35,22 +35,14 @@ Don't fret if you select the wrong one. It'll tell you it is not connected, so j
 
 > Profile Management as been streamlined to reduce the friction of adding multiple provider identities.
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/60cd8cf5-4001-4961-9448-0ce5529158ef.png)
-null
-
 In the Profile view, you are able to add and remove provider identities (eg. Twitter). This will allow you to log in from any supported device with that identity. Future versions may may enable more robust content usage from the added provider, but we'll just focus on Login for now.
-null
-
-You'll see here, that GitHub is my only connected provider, because it is what I used when I activated my account.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3af7daa4-17bd-4458-891f-eb692e16157d.png)
-
-If you would like to connect another such as Facebook, simply tap the connect button and you be presented with an opportunity to add this identity to your account.
-null
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3ec4297-5b79-48a1-950e-657342bc74c6.png)
 
+If you would like to connect another such as Facebook, simply tap the connect button and you be presented with an opportunity to add this identity to your account.
+
 You may add and remove these as you please, but take note that you must have one attached and we will not allow you to disconnect them all.
-null
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3c78956-d538-4f2d-814e-e8e321a6d9de.png)
 
-> Other Profile features
+The green "Connected" message indicates that it is the only remaining Provider. This means you cannot disconnect it.
 
-null
+> Feedback
