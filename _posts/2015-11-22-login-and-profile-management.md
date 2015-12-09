@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-28T02:22:35.776Z'
-dateModified: '2015-11-28T02:09:06.222Z'
+datePublished: '2015-12-09T02:10:10.149Z'
+dateModified: '2015-12-09T02:09:42.096Z'
 title: Login and Profile Management
 author: []
 sourcePath: _posts/2015-11-22-login-and-profile-management.md
 published: true
 authors: []
 publisher:
+  favicon: null
   name: null
   domain: null
   url: null
-  favicon: null
 url: login-and-profile-management/index.html
 _type: Article
 
