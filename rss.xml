@@ -4,7 +4,7 @@
         <description><![CDATA[The Grid iOS]]></description>
         <link>https://thegrid.ai/ios/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Dec 2015 02:10:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Dec 2015 00:28:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ios/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Login and Profile Management]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/ios/login-and-profile-management/index.html</link>
             <guid isPermaLink="false">45298f1e-d98a-49a1-8971-a5ed8f56aed4</guid>
             <pubDate>Wed, 09 Dec 2015 02:10:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Pixel C was probably never supposed to run Android]]></title>
+            <description><![CDATA[<article><h1>The Pixel C was probably never supposed to run Android</h1><p>Was Android actually Google's third operating system choice for its new Pixel C tablet? The Pixel C finally went on sale this week-but our full review notes that the convertible tablet feels like hardware in search of the software to make it a compelling product.</p><img src="http://cdn.arstechnica.net/wp-content/uploads/2015/12/Chrome-OS-Pixel-C-980x653.jpg"></article>]]></description>
+            <link>http://arstechnica.com/gadgets/2015/12/the-pixel-cs-bumpy-road-from-chrome-os-concept-to-android-adoptee/</link>
+            <guid isPermaLink="false">383aee39-54c1-40db-8147-d507cd8a6541</guid>
+            <pubDate>Mon, 14 Dec 2015 00:28:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
