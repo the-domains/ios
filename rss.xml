@@ -4,7 +4,7 @@
         <description><![CDATA[The Grid iOS]]></description>
         <link>https://thegrid.ai/ios/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Dec 2015 00:28:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jan 2016 00:55:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ios/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Login and Profile Management]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Wed, 09 Dec 2015 02:10:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Apple]]></title>
+            <description><![CDATA[<article><h1>Apple</h1><p>Apple leads the world in innovation with iPhone, iPad, Mac, Apple Watch, iOS, OS X, watchOS and more. Visit the site to learn, buy, and get support.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c53f678f125fa732d9c8831a278894c888e19a3f.jpg"></article>]]></description>
+            <link>http://www.apple.com/</link>
+            <guid isPermaLink="false">8b8c5258-1a90-4080-800d-9fa34799d190</guid>
+            <pubDate>Sun, 17 Jan 2016 00:55:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Pixel C was probably never supposed to run Android]]></title>
-            <description><![CDATA[<article><h1>The Pixel C was probably never supposed to run Android</h1><p>Was Android actually Google's third operating system choice for its new Pixel C tablet? The Pixel C finally went on sale this week-but our full review notes that the convertible tablet feels like hardware in search of the software to make it a compelling product.</p><img src="http://cdn.arstechnica.net/wp-content/uploads/2015/12/Chrome-OS-Pixel-C-980x653.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The Pixel C was probably never supposed to run Android</h1><p>Was Android actually Google's third operating system choice for its new Pixel C tablet? The Pixel C finally went on sale this week-but our full review notes that the convertible tablet feels like hardware in search of the software to make it a compelling product.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dcd9a3cabb73b6f6172d0e61d0fa5ad36c74b693.jpg"></article>]]></description>
             <link>http://arstechnica.com/gadgets/2015/12/the-pixel-cs-bumpy-road-from-chrome-os-concept-to-android-adoptee/</link>
             <guid isPermaLink="false">383aee39-54c1-40db-8147-d507cd8a6541</guid>
             <pubDate>Mon, 14 Dec 2015 00:28:31 GMT</pubDate>
