@@ -4,7 +4,7 @@
         <description><![CDATA[The Grid iOS]]></description>
         <link>https://thegrid.ai/ios/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 00:55:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Feb 2016 19:38:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ios/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Login and Profile Management]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Wed, 09 Dec 2015 02:10:10 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Xcode - Wikipedia, the free encyclopedia]]></title>
+            <description><![CDATA[<article><h1>Xcode - Wikipedia, the free encyclopedia</h1><p>Xcode is an integrated development environment (IDE) containing a suite of software development tools developed by Apple for developing software for OS X and iOS. First released in 2003, the latest stable release is version 7.2 and is available via the Mac App Store free of charge for OS X Yosemite and OS X El Capitan users.</p></article>]]></description>
+            <link>https://en.m.wikipedia.org/wiki/Xcode</link>
+            <guid isPermaLink="false">4c6ba011-2630-441f-995f-23de5ee033f2</guid>
+            <pubDate>Thu, 18 Feb 2016 19:38:46 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Apple]]></title>
-            <description><![CDATA[<article><h1>Apple</h1><p>Apple leads the world in innovation with iPhone, iPad, Mac, Apple Watch, iOS, OS X, watchOS and more. Visit the site to learn, buy, and get support.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c53f678f125fa732d9c8831a278894c888e19a3f.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Apple</h1><p>Apple leads the world in innovation with iPhone, iPad, Mac, Apple Watch, iOS, OS X, watchOS and more. Visit the site to learn, buy, and get support.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1617754652183186607b4a4682175e9ffa3196b6.jpg"></article>]]></description>
             <link>http://www.apple.com/</link>
             <guid isPermaLink="false">8b8c5258-1a90-4080-800d-9fa34799d190</guid>
             <pubDate>Sun, 17 Jan 2016 00:55:18 GMT</pubDate>
