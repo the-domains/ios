@@ -4,7 +4,7 @@
         <description><![CDATA[The Grid iOS]]></description>
         <link>https://thegrid.ai/ios/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 07:02:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2016 12:32:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ios/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Login and Profile Management]]></title>
@@ -19,13 +19,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5f56993-05f1-4764-ad54-fbf9ae72a98e.png</link>
             <guid isPermaLink="false">648af63b-28b1-4279-a29e-1b65c757f7bb</guid>
             <pubDate>Wed, 23 Mar 2016 06:30:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d3bb9afb-01c1-47f5-98d5-e763c1d2776e.jpg">]]></description>
-            <link>https://github.com</link>
-            <guid isPermaLink="false">58b7ce85-bd67-4dad-bd00-5191a17a1d8a</guid>
-            <pubDate>Wed, 02 Mar 2016 08:08:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[keyboard bounced popover by forresto · Pull Request #103 · the-grid/ed]]></title>
