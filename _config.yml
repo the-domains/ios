@@ -6,22 +6,22 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0
   brandStrength: 0.672043
   lightness: 0
   brandColors:
-    - '#F8F9FE'
-    - '#010100'
-    - '#908883'
-    - '#AABADB'
-    - '#5A5C3A'
+    - '#FFFFFF'
+    - '#161A1B'
+    - '#765D47'
+    - '#C6AD8E'
+    - '#28A692'
   rhythmicContrast: 0
 cta:
   bucket: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: iOS
 favicon: null
+name: iOS
 opengraph:
   image: null
   type: null
