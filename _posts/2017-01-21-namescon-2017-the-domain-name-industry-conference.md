@@ -25,8 +25,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://namescon.com/'
 title: NamesCon 2017 - The Domain Name Industry Conference
-datePublished: '2017-01-21T20:40:11.522Z'
-dateModified: '2017-01-21T20:40:11.023Z'
+datePublished: '2017-01-21T20:49:05.570Z'
+dateModified: '2017-01-21T20:49:05.016Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-01-21-namescon-2017-the-domain-name-industry-conference.md
