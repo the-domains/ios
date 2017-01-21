@@ -4,22 +4,22 @@
         <description><![CDATA[ ]]></description>
         <link>http://ios.thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 Jan 2017 20:26:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Jan 2017 20:40:17 GMT</lastBuildDate>
         <atom:link href="http://ios.thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Jan 2017 20:26:31 GMT</pubDate>
-        <item>
-            <title><![CDATA[Login and Profile Management]]></title>
-            <description><![CDATA[<h1>Login and Profile Management</h1>,<blockquote><p data-grid-id="34ad3561-7f59-4da4-ad83-0d86aeb801bd">The next Grid iOS Release will feature some improved Login and Profile Management features.</p></blockquote>,<p>The new User Profile features are designed to improve the experience of managing Providers (eg. Facebook, Twitter) you may attach to your activated Grid account.</p>,<p>The initial Login is quite strait forward. There is one catch, however. You'll want to select the Provider you used initially when you activated your account. This way we'll know it's you, and you'll then be able to attach others as you see fit.</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4495c88-0926-4ce2-a4ff-2138468a75a3.png" alt="" title="">]]></description>
-            <link>http://ios.thegrid.io/login-and-profile-management/index.html</link>
-            <guid isPermaLink="false">45298f1e-d98a-49a1-8971-a5ed8f56aed4</guid>
-            <pubDate>Wed, 09 Dec 2015 02:10:10 GMT</pubDate>
-        </item>
+        <pubDate>Sat, 21 Jan 2017 20:40:11 GMT</pubDate>
         <item>
             <title><![CDATA[Apple]]></title>
             <description><![CDATA[<article><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8b068bfda60c85e9b7943848a7d536dc/noop.png?input=https%3A%2F%2Fwww.apple.com%2Fac%2Fstructured-data%2Fimages%2Fopen_graph_logo.png%3F201701171411"><h1>Apple</h1><p>See the MacBook Pro, iPhone 7, and AirPods. Explore iPad, Apple Watch, iOS, watchOS, macOS, and more. Visit the site to learn, buy, and get support..</p></article>]]></description>
             <link>http://www.apple.com</link>
             <guid isPermaLink="false">fd889418-e0fd-459a-86ed-114403fb6081</guid>
             <pubDate>Sat, 21 Jan 2017 20:16:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Login and Profile Management]]></title>
+            <description><![CDATA[<h1>Login and Profile Management</h1>,<blockquote><p data-grid-id="34ad3561-7f59-4da4-ad83-0d86aeb801bd">The next Grid iOS Release will feature some improved Login and Profile Management features.</p></blockquote>,<p>The new User Profile features are designed to improve the experience of managing Providers (eg. Facebook, Twitter) you may attach to your activated Grid account.</p>,<p>The initial Login is quite strait forward. There is one catch, however. You'll want to select the Provider you used initially when you activated your account. This way we'll know it's you, and you'll then be able to attach others as you see fit.</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4495c88-0926-4ce2-a4ff-2138468a75a3.png" alt="" title="">]]></description>
+            <link>http://ios.thegrid.io/login-and-profile-management/index.html</link>
+            <guid isPermaLink="false">45298f1e-d98a-49a1-8971-a5ed8f56aed4</guid>
+            <pubDate>Wed, 09 Dec 2015 02:10:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NamesCon 2017 - The Domain Name Industry Conference]]></title>
