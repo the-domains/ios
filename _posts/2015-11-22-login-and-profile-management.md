@@ -1,23 +1,26 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2015-12-09T02:10:10.149Z'
-dateModified: '2015-12-09T02:09:42.096Z'
+description: >-
+  The new User Profile features are designed to improve the experience of
+  managing Providers (eg. Facebook, Twitter) you may attach to your activated
+  Grid account.
+datePublished: '2017-01-21T20:42:08.703Z'
+dateModified: '2015-12-30T20:08:45.256Z'
 title: Login and Profile Management
 author: []
 sourcePath: _posts/2015-11-22-login-and-profile-management.md
-published: true
 authors: []
 publisher:
-  favicon: null
   name: null
   domain: null
   url: null
+  favicon: null
+datePublishedOriginal: '2017-01-21T20:42:08.703Z'
+via: {}
 url: login-and-profile-management/index.html
 _type: Article
 
