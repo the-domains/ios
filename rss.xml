@@ -4,9 +4,9 @@
         <description><![CDATA[ ]]></description>
         <link>http://ios.thegrid.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 Jan 2017 20:26:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Jan 2017 20:26:36 GMT</lastBuildDate>
         <atom:link href="http://ios.thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 21 Jan 2017 20:26:30 GMT</pubDate>
+        <pubDate>Sat, 21 Jan 2017 20:26:31 GMT</pubDate>
         <item>
             <title><![CDATA[Login and Profile Management]]></title>
             <description><![CDATA[<h1>Login and Profile Management</h1>,<blockquote><p data-grid-id="34ad3561-7f59-4da4-ad83-0d86aeb801bd">The next Grid iOS Release will feature some improved Login and Profile Management features.</p></blockquote>,<p>The new User Profile features are designed to improve the experience of managing Providers (eg. Facebook, Twitter) you may attach to your activated Grid account.</p>,<p>The initial Login is quite strait forward. There is one catch, however. You'll want to select the Provider you used initially when you activated your account. This way we'll know it's you, and you'll then be able to attach others as you see fit.</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4495c88-0926-4ce2-a4ff-2138468a75a3.png" alt="" title="">]]></description>
