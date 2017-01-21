@@ -1,5 +1,21 @@
-title: The Grid iOS
-purpose: []
+layout_spectrum: 0.7780117364367931
+typography_spectrum: 0.6077930411766513
+color:
+  saturation: 0.008584466151948465
+  brandStrength: 0.6781725383481694
+  lightness: 0.00466715499509753
+  brandColors:
+    - '#FFFFFF'
+    - '#161A1B'
+    - '#765D47'
+    - '#C6AD8E'
+    - '#28A692'
+  rhythmicContrast: 0.008325919515849782
+title: ' '
+purpose:
+  - type: external
+    url: 'https://betas.to/gDgbspc9'
+    label: iOS Beta App Signup
 collections:
   - index:
       path: /
@@ -12,17 +28,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-color:
-  saturation: 0
-  brandStrength: 0.672043
-  lightness: 0
-  brandColors:
-    - '#FFFFFF'
-    - '#161A1B'
-    - '#765D47'
-    - '#C6AD8E'
-    - '#28A692'
-  rhythmicContrast: 0
 cta:
   bucket: null
   version: null
@@ -37,6 +42,87 @@ opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.37991
-style: the-composer
-layout_spectrum: 0.20594
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FaEfpARsP8Fg%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DaEfpARsP8Fg&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FaEfpARsP8Fg%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      author:
+        - name: The Grid
+          url: 'https://www.youtube.com/user/TheGridio'
+          avatar: {}
+      related: []
+      publisher:
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        domain: www.youtube.com
+      keywords:
+        - grid
+        - duration
+        - views
+        - design
+        - website
+        - dansky
+        - web
+        - chrome
+        - hangout
+        - wes
+      description: >-
+        Meet your new AI web designer. 1. Hire her & get a free domain name. 2.
+        Add content & wait a few seconds. 3. Click "redesign" until she crafts
+        your website just right. She designed https://thegrid.io/
+      inLanguage: en
+      '@type': VideoObject
+      app_links:
+        - url: 'vnd.youtube://www.youtube.com/watch?v=aEfpARsP8Fg&feature=applinks'
+          type: ios
+          namespace: ai
+          app_store_id: '544007664'
+          app_name: YouTube
+        - url: 'vnd.youtube://www.youtube.com/watch?v=aEfpARsP8Fg&feature=applinks'
+          type: android
+          namespace: ai
+          app_name: YouTube
+          package: com.google.android.youtube
+        - url: 'https://www.youtube.com/watch?v=aEfpARsP8Fg&feature=applinks'
+          type: web
+          namespace: ai
+        - url: 'vnd.youtube://www.youtube.com/watch?v=aEfpARsP8Fg&feature=applinks'
+          namespace: twitter
+          type: ipad
+          name: YouTube
+          id: '544007664'
+        - url: 'vnd.youtube://www.youtube.com/watch?v=aEfpARsP8Fg&feature=applinks'
+          namespace: twitter
+          type: iphone
+          name: YouTube
+          id: '544007664'
+        - url: 'https://www.youtube.com/watch?v=aEfpARsP8Fg'
+          namespace: twitter
+          type: googleplay
+          name: YouTube
+          id: com.google.android.youtube
+        - path: http/www.youtube.com/watch?v=aEfpARsP8Fg
+          package: com.google.android.youtube
+          namespace: google
+          type: android
+        - path: vnd.youtube/www.youtube.com/watch?v=aEfpARsP8Fg
+          package: '544007664'
+          namespace: google
+          type: ios
+      '@context': 'http://schema.org'
+      isBasedOnUrl: 'https://www.youtube.com/watch?v=aEfpARsP8Fg'
+      title: 'The Grid, websites that design themselves'
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+url: 'https://ios.thegrid.io'
+description: ''
+github: true
