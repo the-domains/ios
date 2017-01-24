@@ -16,6 +16,9 @@ purpose:
   - type: external
     url: 'https://betas.to/gDgbspc9'
     label: iOS Beta App Signup
+  - type: external
+    url: 'https://itunes.apple.com/us/app/the-grid./id990744597?mt=8'
+    label: Install the app
 collections:
   - index:
       path: /
@@ -140,7 +143,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
