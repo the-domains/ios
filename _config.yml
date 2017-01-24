@@ -1,16 +1,16 @@
-layout_spectrum: 0.7780117364367931
-typography_spectrum: 0.6077930411766513
+layout_spectrum: 0.39561216263570775
+typography_spectrum: 0.8283490547304512
 color:
-  saturation: 0.008584466151948465
-  brandStrength: 0.6781725383481694
-  lightness: 0.00466715499509753
+  saturation: 0.8050895651986841
+  brandStrength: 0.9664735921528559
+  lightness: 0.7059498491129921
   brandColors:
-    - '#FFFFFF'
-    - '#161A1B'
-    - '#765D47'
-    - '#C6AD8E'
-    - '#28A692'
-  rhythmicContrast: 0.008325919515849782
+    - '#6C6E58'
+    - '#3E423A'
+    - '#417378'
+    - '#A4CFBE'
+    - '#F4F7D9'
+  rhythmicContrast: 0.3109971902023374
 title: ' The Grid iOS App'
 purpose:
   - type: external
@@ -63,7 +63,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
