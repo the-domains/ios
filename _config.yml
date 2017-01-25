@@ -1,16 +1,16 @@
-layout_spectrum: 0.39561216263570775
-typography_spectrum: 0.8283490547304512
+layout_spectrum: 0.43791391115958367
+typography_spectrum: 0.5066159603573235
 color:
-  saturation: 0.8050895651986841
-  brandStrength: 0.9664735921528559
-  lightness: 0.7059498491129921
+  saturation: 0.45072292952411025
+  brandStrength: 0.7619194986993945
+  lightness: 0.5443555471497487
   brandColors:
     - '#6C6E58'
     - '#3E423A'
     - '#417378'
     - '#A4CFBE'
     - '#F4F7D9'
-  rhythmicContrast: 0.3109971902023374
+  rhythmicContrast: 0.5776379851451936
 title: ' The Grid iOS App'
 purpose:
   - type: external
