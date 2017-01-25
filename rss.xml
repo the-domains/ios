@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ The Grid iOS App]]></title>
+        <description><![CDATA[ The Grid iOS App]]></description>
+        <link>http://ios.thegrid.io/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 25 Jan 2017 02:39:13 GMT</lastBuildDate>
+        <atom:link href="http://ios.thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Grid Help]]></title>
+            <description><![CDATA[<article><h1>The Grid Help</h1><p>The Grid Help Center</p><img src="http://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/57f021489033602e61d4a733/Teal_G.png"></article>]]></description>
+            <link>http://help.thegrid.io</link>
+            <guid isPermaLink="false">88913cea-1d5e-4bd0-8b16-ffcccca1a5ea</guid>
+            <pubDate>Wed, 25 Jan 2017 02:38:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
