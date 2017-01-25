@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ The Grid iOS App]]></title>
+        <description><![CDATA[ The Grid iOS App]]></description>
+        <link>http://ios.thegrid.io/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 25 Jan 2017 02:32:19 GMT</lastBuildDate>
+        <atom:link href="http://ios.thegrid.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Wed, 25 Jan 2017 02:32:18 GMT</pubDate>
+        <item>
+            <title><![CDATA[Login and Profile Management]]></title>
+            <description><![CDATA[<h1>Login and Profile Management</h1>,<blockquote><p data-grid-id="34ad3561-7f59-4da4-ad83-0d86aeb801bd">The next Grid iOS Release will feature some improved Login and Profile Management features.</p></blockquote>,<p>The new User Profile features are designed to improve the experience of managing Providers (eg. Facebook, Twitter) you may attach to your activated Grid account.</p>,<p>The initial Login is quite strait forward. There is one catch, however. You'll want to select the Provider you used initially when you activated your account. This way we'll know it's you, and you'll then be able to attach others as you see fit.</p>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b4495c88-0926-4ce2-a4ff-2138468a75a3.png" alt="" title="">]]></description>
+            <link>http://ios.thegrid.io/login-and-profile-management/index.html</link>
+            <guid isPermaLink="false">45298f1e-d98a-49a1-8971-a5ed8f56aed4</guid>
+            <pubDate>Wed, 25 Jan 2017 02:26:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NamesCon 2017 - The Domain Name Industry Conference]]></title>
+            <description><![CDATA[<article><h1>NamesCon 2017 - The Domain Name Industry Conference</h1><p>NamesCon is the Domain Name Industry Event, held annually in Las Vegas for registries, registrars, domain investors, entrepreneurs, domain attorneys and more.</p><img src="http://static1.squarespace.com/static/5757377440261ddcdeb84d58/t/575739b160b5e98179c41be6/1485290617202/?format=1000w"></article>]]></description>
+            <link>http://namescon.com</link>
+            <guid isPermaLink="false">3acc7cce-de79-4790-8887-2a770342254e</guid>
+            <pubDate>Wed, 25 Jan 2017 02:32:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
