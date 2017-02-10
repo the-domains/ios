@@ -12,13 +12,13 @@ description: The Grid Help Center
 app_links: []
 isBasedOnUrl: 'http://help.thegrid.io'
 title: The Grid Help
-datePublished: '2017-01-25T02:38:26.345Z'
-dateModified: '2017-01-25T02:38:11.976Z'
-datePublishedOriginal: '2017-01-25T02:38:26.345Z'
+datePublished: '2017-02-10T05:17:03.657Z'
+dateModified: '2017-01-26T20:10:29.647Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2017-01-25-the-grid-help.md
+starred: false
+datePublishedOriginal: '2017-01-25T02:38:26.345Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
